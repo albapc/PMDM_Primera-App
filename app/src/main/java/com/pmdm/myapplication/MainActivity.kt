@@ -10,7 +10,6 @@ import java.util.*
 import android.widget.TextView
 import org.jetbrains.anko.design.snackbar
 
-
 class MainActivity : AppCompatActivity() {
 
     //inicializamos elementos de la interfaz.
