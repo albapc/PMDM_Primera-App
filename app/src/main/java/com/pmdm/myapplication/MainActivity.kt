@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
         bAceptar = findViewById(R.id.accept)
 
         //accion que se ejecutara al pulsar el boton
-        bAceptar?.setOnClickListener{
+        bAceptar?.setOnClickListener {
             cambiarMensaje(it)
         }
     }
