@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PrimeraApp</string>
+    <string name="androidimage">androidImage</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="pixel_heart">pixel</string>
+    <string name="texto">texto</string>
+    <string name="toast">Buenos dias</string>
+</resources>
